@@ -1,0 +1,27 @@
+{
+  "version": "3.100.34725.0",
+  "course_id": "6fT7pSbi5GE",
+  "title": "Common Misunderstandings",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Intro Scene"
+    }
+  ],
+  "slides": [
+    {
+      "id": "5flp2NSRMIg",
+      "title": "Intro Slide",
+      "scene_index": "1.1"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 1220,
+    "height": 658
+  },
+  "stage": {
+    "width": 960,
+    "height": 540
+  }
+}
