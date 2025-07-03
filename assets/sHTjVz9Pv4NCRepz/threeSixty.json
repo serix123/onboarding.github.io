@@ -1,0 +1,42 @@
+{
+  "version": "3.100.34725.0",
+  "course_id": "5iydUKTu4GC",
+  "title": "The Art of Bowing",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Intro Scene"
+    }
+  ],
+  "slides": [
+    {
+      "id": "6OUUtdTEoZQ",
+      "title": "Intro Slide",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "5x4yToEghec",
+      "title": "eshaku",
+      "scene_index": "1.2"
+    },
+    {
+      "id": "6XO7yD5TRWh",
+      "title": "saikeirei",
+      "scene_index": "1.3"
+    },
+    {
+      "id": "5cgGgdSnXEP",
+      "title": "keirei",
+      "scene_index": "1.4"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 1220,
+    "height": 658
+  },
+  "stage": {
+    "width": 960,
+    "height": 540
+  }
+}
