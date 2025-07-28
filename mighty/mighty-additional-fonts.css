@@ -217,6 +217,13 @@
 }
 
 @font-face {
+  font-family: 'Now Black';
+  src: url('../lib/fonts/oV8t86Xj_rRgFP5G-Now-Black.woff') format('woff');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
   font-family: 'Roboto';
   src: url('../lib/fonts/Roboto-Black.woff') format('woff');
   font-weight: 900;
@@ -248,6 +255,27 @@
   font-family: 'Roboto';
   src: url('../lib/fonts/Roboto-Light.woff') format('woff');
   font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Lora';
+  src: url('../lib/fonts/Lora-Italic.woff') format('woff');
+  font-weight: 400;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Lora';
+  src: url('../lib/fonts/Lora-Bold.woff') format('woff');
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Lora';
+  src: url('../lib/fonts/Lora-Regular.woff') format('woff');
+  font-weight: 400;
   font-style: normal;
 }
 
@@ -325,6 +353,69 @@
   font-family: 'Lato';
   src: url('../lib/fonts/Lato2-Black.woff') format('woff');
   font-weight: 900;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Oswald';
+  src: url('../lib/fonts/Oswald-Bold.woff') format('woff');
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Oswald';
+  src: url('../lib/fonts/Oswald-Regular.woff') format('woff');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Oswald';
+  src: url('../lib/fonts/Oswald-Light.woff') format('woff');
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Merriweather';
+  src: url('../lib/fonts/Merriweather-Black.woff') format('woff');
+  font-weight: 900;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Merriweather';
+  src: url('../lib/fonts/Merriweather-Italic.woff') format('woff');
+  font-weight: 400;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Merriweather';
+  src: url('../lib/fonts/Merriweather-Bold.woff') format('woff');
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Merriweather';
+  src: url('../lib/fonts/Merriweather-Regular.woff') format('woff');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Merriweather';
+  src: url('../lib/fonts/Merriweather-Light.woff') format('woff');
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Now';
+  src: url('../lib/fonts/S2VHryX3v6Zl7kkq-Now-Regular.woff') format('woff');
+  font-weight: 400;
   font-style: normal;
 }
 
